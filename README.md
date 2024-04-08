@@ -19,4 +19,5 @@
 1）密码长度最长为255个字符，后期将进行扩展；
 2）不能对于密码包含内容进行限制；
 3）没有通过UI界面进行展示，需要自行打开passwd.txt文件；
+
 版本网址:https://github.com/Colo-info/password_generator/tree/v1.0
